@@ -1,0 +1,28 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://gitee.com/sungmanhin/blog",
+    "email": "songwenxuan@ruc.edu.cn",
+    "enabledProxy": "direct",
+    "platform": "gitee",
+    "privateKey": "",
+    "repository": "blog",
+    "token": "ca6d1abb7e3bd68c0c74a615b201d0ac",
+    "username": "SungManhin"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
