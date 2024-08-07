@@ -1,0 +1,38 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/post-with-code/index.html",
+      "/blog/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/talk_1/index.html",
+      "/talks/talk_2/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/project_1/index.html",
+      "/projects/project_2/index.html",
+      "/projects/pkg_1/index.html",
+      "/projects/pkg_2/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/project_1/index.html",
+      "/publications/project_2/index.html",
+      "/publications/pkg_1/index.html",
+      "/publications/pkg_2/index.html"
+    ]
+  }
+]

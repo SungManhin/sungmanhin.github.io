@@ -1,0 +1,121 @@
+/*-- scss:defaults --*/
+
+$theme-black: #3e3e3e;
+$theme-white: white;
+$theme-grey: #e9ecef;
+
+$theme-green3: #3e9a39;
+$theme-green4: #3e7a39;
+$theme-green5: #3e4a39;
+$theme-bluegrey1: #1a2a3a;
+$theme-bluegrey2: #2a3a4a;
+$theme-bluegrey3: #3a4a5a;
+$theme-orange: #859293;
+$theme-purple: #6a36a6;
+$theme-darkblue1: #3498db;
+$theme-darkblue2:#2980b9; 
+
+
+
+
+
+$body-bg: $theme-white;
+$body-color: $theme-bluegrey2; // text color
+$headings-color: $theme-bluegrey2; // applies to all 
+$link-color: $theme-purple;
+
+// code
+$code-color: $theme-bluegrey2;
+$code-bg: $theme-bluegrey2;
+$code-block-bg-alpha: -0.8;
+//$code-block-border-left: TRUE;
+//$code-block-border-left-style: solid;
+
+$background-color: $theme-bluegrey2;
+
+// navigation
+$navbar-bg: $theme-darkblue2;
+
+// callout block
+$callout-color-note: $theme-darkblue2;
+$callout-color-tip: $theme-darkblue1;
+
+
+// font
+
+
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code_Pro&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Lato&family=Yanone+Kaffeesatz&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+$font-family-sans-serif: 'Poppins', sans-serif;
+$font-family-monospace: 'Source Code Pro', monospace;
+//$font-family: "Atkinson Hyperlegible", sans-serif;
+$font-poppins: 'Poppins', sans-serif; 
+$font-pt: 'PT Serif', sans-serif;
+$font-cabin: 'Cabin', sans-serif;
+$font-montserrat: 'Montserrat', sans-serif;
+$font-prompt: 'Prompt', sans-serif;
+
+//$font-family-sans-serif: 'Yanone Kaffeesatz', Tahoma, sans-serif;
+//$font-family-sans-serif: 'Signika Negative';
+
+$font-size-root: 16px;
+
+/*-- scss:rules --*/
+h1 {
+  color: $theme-bluegrey2;
+  font-family: $font-pt;
+  font-size: 40px;
+  //padding: 0.2em;
+}
+
+h2 {
+  color: $theme-bluegrey2;
+  font-family: $font-pt;
+  font-size: 30px;
+  //padding: 0.3em;
+}
+
+h3, h4 {
+  color: $theme-bluegrey1;
+  font-family: $font-pt;
+  //padding: 0.3em;
+}
+
+
+h4 {
+  color: $theme-darkblue1;
+}
+
+.render-commit-push {
+  padding: 0.5em 0.5em 0em 3em;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #f8f8f8 5px center/3em no-repeat;
+  border-top: 1px solid #859293;
+  border-bottom: 1px solid #859293;
+  background-size: 2em;
+  background-position: 0.5em 0.5em;
+}
+
+.pull {
+  padding: 0.5em 0.5em 0em 3em;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #f8f8f8 5px center/3em no-repeat;
+  border-top: 1px solid #2a3a4a;
+  border-bottom: 1px solid #2a3a4a;
+  background-size: 1em;
+  background-position: 1em 0.5em;
+}

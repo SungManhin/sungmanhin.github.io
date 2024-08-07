@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Sung Manhin"
+  site-url: https://sungmanhin.github.io
+  favicon: misc/logo.png
+  repo-url: https://github.com/sungmanhin/sungmanhin.github.io
+  repo-actions: [edit, issue]
+
+  page-footer:
+    left: "&copy; Copyright 2024, Sung Manhin"
+    right: 
+      - icon: github
+        href: https://github.com/sungmanhin/sungmanhin.github.io
+  navbar:
+    background: "#b5d9f0"
+    search: true
+    right:
+
+      - text: "Publications"
+        href: publications/index.qmd
+
+      - text: "Talks"
+        href: talks/index.qmd
+
+      - text: "Blog"
+        href: blog/index.qmd
+
+      - text: "About me"
+        href: about.qmd
+
+
+
+format:
+  html:
+    css: styles.scss
+
+

@@ -1,0 +1,34 @@
+---
+title: "Sung Manhin"
+image: misc/photo.jpeg
+page-layout: article
+format: 
+  html:
+    linestretch: 1.7
+about:
+  id: hero-heading
+  template: jolla
+  image-shape: round
+  links:
+    - icon: mailbox
+      text: songwenxuan@ruc.edu.cn
+      href: mailto:songwenxuan@ruc.edu.cn
+    - icon: github
+      text: SungManhin
+      href: https://github.com/sungmanhin
+---
+
+::: {#hero-heading}
+
+:::
+
+I am currently a master student at the [School of Statistics](http://stat.ruc.edu.cn), Renmin University of China, specializing in **Epidemiology and Biostatistics**. 
+
+
+My **interests** are: 
+
+* **Hypothesis testing**
+* Applications of biostatistical methods
+
+
+
