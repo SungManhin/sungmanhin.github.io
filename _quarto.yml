@@ -7,6 +7,7 @@ website:
   title: "Sung Manhin"
   site-url: https://sungmanhin.github.io
   favicon: misc/logo.png
+  logo: misc/logo.png
   repo-url: https://github.com/sungmanhin/sungmanhin.github.io
   repo-actions: [edit, issue]
 
