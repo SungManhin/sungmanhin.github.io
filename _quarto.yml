@@ -7,7 +7,6 @@ website:
   title: "Sung Manhin"
   site-url: https://sungmanhin.github.io
   favicon: misc/logo.png
-  logo: misc/logo.png
   repo-url: https://github.com/sungmanhin/sungmanhin.github.io
   repo-actions: [edit, issue]
 
@@ -22,15 +21,19 @@ website:
     right:
 
       - text: "Publications"
+        icon: file-earmark-text
         href: publications/index.qmd
 
       - text: "Talks"
+        icon: chat-right-text
         href: talks/index.qmd
 
       - text: "Blog"
+        icon: pen
         href: blog/index.qmd
 
       - text: "About me"
+        icon: person-circle
         href: about.qmd
 
 
