@@ -19,8 +19,7 @@ about:
 
 Hello! I am Sung Manhin.
 
-I am from Qufu, Shandong. I am currently a master student at the [School of Statistics](http://stat.ruc.edu.cn), Renmin University of China, specializing in **Epidemiology and Biostatistics**. 
+I am from Qufu, Shandong. I am currently a master student at the [School of Statistics](http://stat.ruc.edu.cn), Renmin University of China, specializing in **Epidemiology and Biostatistics**.
 
-# My research interests focus on **hypothesis testing** and the application of biostatistical methods. I am continually exploring this field to contribute to the advancement of public health.
-
+My research interests focus on **very interesting statistical methods and applications**.
 :::
