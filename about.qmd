@@ -1,6 +1,6 @@
 ---
 title: "Sung Manhin"
-image: misc/photo.jpeg
+image: misc/ruclogo.png
 page-layout: article
 format: 
   html:
@@ -27,8 +27,8 @@ I am currently a master student at the [School of Statistics](http://stat.ruc.ed
 
 My **interests** are: 
 
-* **Hypothesis testing**
-* Applications of biostatistical methods
+* **Very interesting statistical methods and applications**
+* others
 
 
 
